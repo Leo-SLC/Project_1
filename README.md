@@ -1,2 +1,9 @@
 # Project_1
 Group Project 1 - Alexia, Molina, Joshua, and Leo
+
+Presentation Slides
+
+https://docs.google.com/presentation/d/1KWOtXJAhF7XZaOztV7OKlz7N3K52Mq56zJnvX1gQMPA/edit?usp=sharing
+
+Initial Proposal 
+https://docs.google.com/document/d/1mUv6l161rgTVP2pzyt1iwOqkHGUqD2aRumK-8IEDOxk/edit?usp=sharing
